@@ -13,11 +13,8 @@ Unidad 1: Introducción a la ingeniería del software y sistemas de información
 
 <h3>Unidad 2: Modelos de la ingeniería del software</h3>
 <h3>2.1. Modelo de capacidad de madurez.</h3>
-<br />
-<h3>2.2. Marco de trabajo para el proceso.></h3
-<br />
+<h3>2.2. Marco de trabajo para el proceso.</h3
 <h3>2.3. Modelos de la ingeniería del software: modelo de cascada, modelo de prototipos,modelo de espiral, modelo de Proceso Unificado Racional (RUP).</h3>
-<br />
 <h3>2.4. Tendencias modernas de modelos de la ingeniería del software.</h3>
 <br />
 
